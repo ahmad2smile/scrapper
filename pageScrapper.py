@@ -25,6 +25,10 @@ def isNotFound(page):
     return False
 
 
+def cleanUpTagText(text):
+    return text.replace("Inventors:", "").replace("Inventor:", "").strip()
+
+
 def getNames(link, selector):
     try:
         response = requests.get(link)
@@ -35,9 +39,9 @@ def getNames(link, selector):
         if isNotFound(page):
             return None
 
-        return [tag.text for tag in getAllTags(page, selector)]
+        return [cleanUpTagText(tag.text) for tag in getAllTags(page, selector)]
     except (requests.exceptions.HTTPError, requests.exceptions.RequestException) as error:
-        logger.error("RequestException: {}".format(str(error)))
+        logger.error(f"RequestException: {str(error)}")
         logger.error("Retrying in 5 secons")
         sleep(5)
         getNames(link, selector)

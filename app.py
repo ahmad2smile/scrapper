@@ -1,5 +1,6 @@
 import requests
 import logging
+import json
 
 from pageScrapper import getNames
 from bs4 import BeautifulSoup
@@ -10,7 +11,7 @@ setup_logging()
 
 logger = logging.getLogger(__name__)
 
-PROGRESS_FILE = "progressLog"
+PROGRESS_FILE = "progress.json"
 
 
 def getLinks():
@@ -23,43 +24,77 @@ def appendToFile(name, data):
         dataFile.write(data)
 
 
-def getPreviousProgress():
+def getPreviousPage(name, link):
     with open(PROGRESS_FILE, "r") as progressLog:
-        line = progressLog.readline()
-        if len(line) == 0:
-            return [0, 1]
-        return [int(x) for x in line.split(" ")]
+        progress = json.loads(progressLog.read())
+        files = progress["files"]
+
+        results = [f for f in files if f["link"] == link]
+
+        linkProgress = results[0] if len(results) > 0 else None
+
+        if linkProgress is None:
+            updateLinkPage(name, link, 0)
+            return 0
+        if bool(linkProgress["isDone"]):
+            return None
+        return int(linkProgress["page"])
 
 
-def saveNewProgress(linkIndex, page):
-    with open(PROGRESS_FILE, "w") as progressLog:
+def updateLinkPage(name, link, page, isDone=False):
+    with open(PROGRESS_FILE, "r+") as progressLog:
+        progress = json.load(progressLog)
+        files = progress["files"]
+        results = [f for f in files if f["link"] == link]
+
+        linkProgress = results[0] if len(results) > 0 else None
+
+        if linkProgress is None:
+            linkProgress = {
+                "name": name,
+                "page": page,
+                "link": link,
+                "isDone": isDone
+            }
+
+            progress["files"].append(linkProgress)
+        else:
+            linkProgress["page"] = page
+            linkProgress["isDone"] = isDone
+
+        progressLog.seek(0)
+        json.dump(progress, progressLog, ensure_ascii=False, indent=4)
         progressLog.truncate()
-        progressLog.write(f"{linkIndex} {page}")
+
+
+def generateLinkName(link):
+    return link.split(".com/")[-1].replace("/", "_")
 
 
 def scrape():
     links = getLinks()
 
-    previousLinkIndex, previousPage = getPreviousProgress()
-    page = previousPage + 1  # Pages are 1 indexed
+    for link in links:
+        name = generateLinkName(link)
+        previousPage = getPreviousPage(name, link)
 
-    for linkIndex, link in enumerate(links[previousLinkIndex:]):
-        name = link.split("/")[-1]
+        if previousPage is None:
+            continue
+
+        page = previousPage
 
         while True:
-            results = getNames(f"{link}?page={page}", ".inventors")
+            results = getNames(f"{link}?page={page + 1}",
+                               ".inventors")  # 1 index based pages
 
             if results is None:
                 break
 
-            saveNewProgress(linkIndex + previousLinkIndex, page)
+            updateLinkPage(name, link, page)
 
             appendToFile(name, "\n".join(results))
             logger.info(f"Link: {name}, Page: {page}")
             page += 1
 
-        page = 1  # Reset for new Link
+        page = 0  # Reset for new Link
         logger.info(f"Done with: {name}")
-
-
-scrape()

@@ -1,0 +1,521 @@
+Konstantin Khivantsev, Janos Szanyi, Nicholas R. Jaegers, Libor Kovarik, Feng Gao, Yong Wang
+Quanbao Zhao, Stephen W. Dvorak, Shulin Chen, Craig Frear, Bryan J. VanLoo
+Amit Dhingra, Christopher Hendrickson, Seanna Hewitt
+Wei-hong Zhong, Hamid Souzandeh, Yu Wang
+Ming Xian, Wei Chen
+Jinwen Zhang, Junna Xin
+Patrick Peder Moore
+Jacob William Leachman, Patrick Marshall Adam
+Yuzhan Li, Orlando Rios, Alexander Johs, Michael Richard Kessler
+Chunlong Chen, Mingming Wang, Teng-Yue Jian, Haibao Jin, Yuehe Lin, Yang Song, Dan Du
+John F. Alderete
+Clifford E. Berkman, Corinne Ley, Jonathan Geruntho, Cindy Choy
+Yu Wang, Wei-hong Zhong
+Bernard John Van Wie, Xuesong Li
+John A. Browse, James G. Wallis, Jennifer L. Watts
+Weihong Zhong, Yu Wang
+Wenji Dong, Yilin Li
+Cristine Morgan, Yufeng Ge, David Brown, Ross Bricklemyer
+Jacob William Leachman, Jacob Thomas Fisher, Ian Andrew Richardson
+Patrick Peder MooreMark VanDam
+Peter T. A. Reilly, Brian Herbert Clowers, Zachary Philip Gotlib, Nathan Michael Hoffman
+Manuel Garcia-Perez, Joshua C. Walter
+John A. Browse, Chaofu Lu, Zhanguo Xin
+Amit Bandyopadhyay, Susmita Bose, Thomas Gualtieri, Yanning Zhang
+Jon Michael Oatley, Melissa Joan Oatley
+Yogendra M. Gupta, Atakan Peker
+Juming Tang, Fang Liu
+Yuzhan Li, Orlando Rios, Michael Richard Kessler
+Atakan Peker, Dongchun Qiao
+Hui Li, Karl Englund, Don Lilly
+Douglas R. Call, Lisa Orfe
+Grant D. Trobridge, Arun Kumar Nalla
+Kenneth Hensley, Travis Denton
+Ray Gunawidjaja, Pranav Nawani, Hergen Eilers
+David T. Mackay, M. Grant Norton, Sarah Miller
+Suman P Sah, Deukhyoun Heo
+Peter Thomas Aquinas Reilly, Gregory Forrest Brabeck
+Joshua C. Walter, Manuel Garcia-Perez
+Brian H. Clowers, William F. SiemsXiaodong Liang, Scott Andrew Wallace, Xinghui Zhao
+Wenjie Liu, Herbert H. Hill, Jr., William F. Siems
+Peter Denolf, Shuangyi Bai, John Browse
+Wei-Hong Zhong, Hamid Souzandeh, Yu Wang
+Partha Pande, Deukhyoun Heo
+Rahul Panat, Deuk Hyoun Heo
+Manuel Garcia-Perez, Joshua C. Walter
+Hassan Ghasemzadeh, Niloofar Hezarjaribi
+Xianming Shi, Gang Xu
+Glen A. Scoles, Felicito Guerrero, Reginaldo Bastos
+Wei-hong Zhong, Hamid Souzandeh, Yu Wang
+Douglas R. Call, Lisa Orfe
+Ming Xian, Jianming Kang, David J. Lefer
+Santanu Bose, Philippe Tessier
+James J. Toth, Donald Wall, Richard S. Wittman, Bruce D. Pierson, Lawrence R. Greenwood
+Susmita Bose, Amit Bandyopadhyay
+Junming Sun, Changjun Liu, Yong Wang, Kevin Martin, Padmesh Venkitasubramanian
+Rahul P. Panat, Deuk H. Heo
+Juming Tang, Fang Liu
+Buel Dantese Rodgers, Paul GregorevicJohn F. Alderete
+Saugata Swapan Biswas, Anurag Srivastava
+Matthew D. McCluskey
+Partha Pande
+Saugata Swapan Biswas, Anurag K Srivastava
+Sang M. Han, Cornelius F. Ivory, Mani Hossein-Zadeh
+M. Grant Norton, Uttara Sahaym, Sarah Miller
+Cornelius F. Ivory
+Brett Emery Trabun Johnson, Thoshitha Thanushka Gamage, David Edward Bakken
+Rahul Panat, Lei Li
+Yuehe Lin, Dan Du, Yang Song, Ranfeng Ye
+Indranath Dutta, Susmriti Das Mahapatra
+Deukhyoun Heo, Zhiyuan Zhou, Nghia Tang
+Weihong ZHONG, Yu WANG
+Susmita Bose, Amit Bandyopadhyay
+Manuel Garcia-Perez, Craig Frear
+Jacob William Leachman, Patrick Marshall Adam
+Xiao Zhang
+Susmita Bose, Amit Bandyopadhyay
+Indranath Dutta, Rahul PanatIndranath Dutta
+Hergen Eilers, Benjamin Richard Anderson, Ray Gunawidjaja, Patrick David Price
+Junming Sun, Changjun Liu, Yong Wang, Kevin Martin, Padmesh Venkitasubramanian
+Hanjo Hellmann
+Michael K. Skinner, Carlos M. Guerrero-Bosagna
+Xiao Zhang, Elvie Escorrow Brown
+Amit Dhingra, Christopher Hendrickson, Seanna Hewitt
+Hongzhi Liu, Jinwen Zhang
+Carlos E. Suarez, Donald P. Knowles, Jr., Terry McElwain
+Yogendra M. Gupta, Atakan Peker
+John A. Browse, James G. Wallis, Jennifer L. Watts
+J. Richard WATTS, Mushtaque AHMAD
+Jinwen Zhang, Wenjia Song
+Kelvin Lynn, Drew Haven
+Michael K. Skinner, Md. Muksitul Haque
+Juming Tang, Fang Liu
+Kelvin Lynn, Drew Haven
+Kerry W. Hipps, Abdolreza Jahanbekam
+Su Ha, M. Grant Norton
+Richard J. Watts, Mushtaque AhmadPartha Pande
+Amit Dhingra, Christopher Hendrickson
+Junming Sun, Changjun Liu, Yong Wang, Kevin Martin, Padmesh Venkitasubramanian
+Deukhyoun Heo, Pawan Agarwal
+Joseph W. Harding, John W. Wright, Caroline C. Benoist, Leen H. Kawas, Gary A. Wayman
+Deukhyoun HEO, Pawan AGARWAL
+Liang Yu, Jingwei Ma, Craig Frear, Usama Zaher, Shulin Chen
+Douglas R. CALL, Lisa ORFE
+Joseph Ryan Davidson, Changki Mo, Qin Zhang, Abhisesh Silwal, Manoj Karkee
+Herbert H. Hill, JR., Brian Clowers, Nicholas Lovrich
+Saugata Swapan Biswas, Anurag Kumar Srivastava
+Susmita Bose, Amit Bandyopadhyay, Weichang Xue
+Hergen Eilers, Benjamin Richard Anderson, Ray Gunawidjaja, Patrick David Price
+David M Weller, Linda S Thomashow, Dmitri V Mavrodi, Mingming Yang, Jibin Zhang
+Shulin Chen, Moumita Chakraborty, Chao Miao
+Bin Yang, Dhrubojyoti Dey Laskar
+Daniel Stephen VanEs, Jacobus VanHaveren, Augustinus Emmanuel Frissen, Johannes Cornelis VandeKolk
+Jinwen Zhang, Wenjia Song
+Patrick Dennis Pedrow, Rokibul Islam, Karl Richard Englund, Shuzheng Xie
+Douglas R. Call, Lauren Eberhart, Kelly A. Brayton, Thomas E. Besser, Ashish Sawant, Lisa OrfeCamille Marie Steber, Kimberlee Kae Kidwell, Victor Louis Demacon, Patricia Ann Okubara
+M. Grant Norton, Uttara Sahaym, Sarah Miller
+Ming Xian, Wei Chen
+Partha Pande, Deukhyoun Heo
+Allison Coffin, Joseph Harding, Leen Kawas, Phillip Uribe
+Rahul Panat, Lei Li
+Mark De Kleine, Manoj Karkee, Yunxiang Ye
+Diane J. Cook, Aaron Spence Crandall
+Ming Xian, Dehui Zhang
+Amit Bandyopadhyay, Susmita Bose
+Jon Michael Oatley, Melissa Joan Oatley
+Clifford E. BERKMAN, Henry F. VANBROCKLIN
+Jinwen ZHANG, Yu FU
+Samar Kumar GUHARAY, Herbert H. HILL
+Rahul Panat, Deuk Hyoun Heo
+Sue B. Clark, Paul D. Schumacher
+Atakan Peker, Dongchun Qiao
+Joshua C. Walter, Karl Englund
+Xiao ZHANG
+Nicholas Kennedy, Quan-Bao Zhao, Anping Jiang, Craig Frear, Stephen W. DvorakAtakan Peker, Dongchun Qiao
+Amit Bandyopadhyay, Susmita Bose
+Clifford E. Berkman, Henry F. Vanbrocklin
+Xiaochen Yu, Jijiao Zeng, Yubin Zheng, Mahesh Bule, Shulin Chen
+Michael A. Costa, Norman G. Lewis, Laurence B. Davin
+Jinwen Zhang, Yu Fu
+Carlos E. Suarez, Donald P. Knowles, Jr., Terry F. McElwain
+David Edward Bakken
+Ming Xian, Jia Pan
+Junming Sun, Changjun Liu, Yong Wang, Colin Smith, Kevin Martin, Padmesh Venkitasubramanian, Joshua Terrian
+John A. Browse, Chaofu Lu, Zhanguo Xin
+Allison Coffin, Joseph Harding, Leen Kawas, Phillip Uribe
+Subramaniam Srikumaran, Sudarvili Shanthalingam
+Junming Sun, Changjun Liu, Yong Wang, Kevin Martin, Padmesh Venkitasubramanian
+Joseph W. Harding, John W. Wright, Caroline C. Benoist, Leen H. Kawas, Gary A. Wayman
+Philip Garner
+Holly L. Neibergs, Ricardo Zanella, Jeremy F. Taylor, Zeping Wang, Erik Scraggs, Stephen N. White, Robert Schnabel, Curtis P. Van Tassell
+Norman G. Lewis, Laurence B. Davin, Sung-Jin Kim, Daniel Giddings Vassão, Ann M. Patten, Dietmar Eichinger
+Hakan Gurocak, Mustafa Alkan
+Patrick Peder MooreClarence A. Ryan, Gregory L. Pearce, Alisa Huffaker, Yube Yamaguchi
+Subramaniam Srikumaran, Sudarvili Shanthalingam
+Ming Xian, Yu Zhao
+Hakan Gurocak, Doruk Senkal, Berk Gonenc
+Patrick Peder Moore
+Bachettira W. Poovaiah, Liqun Du
+Joseph W. Harding, John W. Wright, Patrick D. Elias, Brent J. Yamamoto, Leen H. Kawas
+Deukhyoun Heo, Pawan Agarwal
+Joseph W. Harding, John W. Wright, Caroline C. Benoist, Leen H. Kawas, Gary A. Wayman
+Punit Agrawal
+Michael Konkel, Tri Duong, Charlie Larson, Jason Neal-McKinney
+Susmita Bose, Amit Bandyopadhyay
+Jinwen Zhang, Xiaoqing Liu, Ming Xian
+Bin Yang, Dhrubojyoti Dey Laskar
+Jon Michael Oatley, Melissa Joan Oatley
+Lisa Knowles, Norman R. Knowles
+Cornelius F. Ivory, Dan M. Leatzow
+Philip Garner
+Juming Tang, Fang Liu
+Li TanKimberlee Kae Kidwell, Camille Marie Steber, Victor Louis Demacon, Gary Bruce Shelton, Adrienne Bryan Burke
+Susmita Bose, Amit Bandyopadhyay
+Susmita Bose, Amit Bandyopadhyay, Weichang Xue
+Orest J. Pilskalns
+Amit Dhingra, Scott Schaeffer
+Hakan Gurocak, Mustafa Sait Alkan
+Diane J. Cook, Parisa Rashidi
+M. Grant Norton, Uttara Sahaym
+Deukhyoun Heo, Pawan Agarwal
+Ming Xian, Wei Chen
+Orest J. Pilskalns, Adam McDonald, Kevin Karpenske
+John A. Browse, James G. Wallis, Jennifer L. Watts
+Holly L. Neibergs, Ricardo Zanella, Jeremy F. Taylor, Zeping Wang, Erik Scraggs, Stephen N. White, Robert Schnabel
+Kelvin G. Lynn, Marc H. Weber
+Xiaochen Yu, Jijiao Zeng, Yubin Zheng, Mahesh Bule, Shulin Chen
+Herbert H. Hill, Eric J. Davis
+James J. Toth, Donald Wall, Richard S. Wittman, Bruce D. Pierson, Lawrence R. Greenwood
+Xiaochen Yu, Yubin Zheng, Shulin Chen
+Philip Garner
+Wei-Hong ZHONG, Jianying JI, Bin LILi Tan
+John A. Browse, James G. Wallis, Jennifer L. Watts
+Caixi Zhang, Matthew D. Whiting
+William C. Davis, Mary Jo Hamilton, John Dahl, Kun Taek Park
+Vaithianathan Venkatasubramanian, Xing Liu
+Thomas Q. Chastek
+Clarence A. Ryan, Gregory L. Pearce, Alisa Huffaker, Yube Yamaguchi
+Wei-Hong Zhong, Jianying Ji, Bin Li
+Junming Sun, Changjun Liu, Yong Wang, Colin Smith, Kevin Martin, Padmesh Venkitasubramanian, Joshua Terrian
+Herbert H Hill, Jr., Eric J. Davis, William F. Siems
+Junming Sun, Changjun Liu, Yong Wang, Colin Smith, Kevin Martin, Padmesh Venkitasubramanian
+Amit Dhingra, Christopher Hendrickson
+Richard J. Watts, Mushtaque Ahmad
+Kimberlee Kae Kidwell, Camille Marie Steber, Victor Louis Demacon, Gary Bruce Shelton, Adrienne Bryan Burke
+JOSEPH W. HARDING, JOHN W. WRIGHT, CAROLINE C. BENOIST, LEEN H. KAWAS, GARY A. WAYMAN
+Gregory L. Pearce, Alisa Huffaker, Yube Yamaguchi, Patricia Louise Ryan
+Joseph W. Harding, John W. Wright, Caroline C. Benoist, Leen H. Kawas, Gary A. Wayman
+Hakan Gurocak, Doruk Senkal, Berk Gonenc
+Caixi Zhang, Matthew D. Whiting
+Hans Van Dongen, Pia ForsmanMatthew D. McCluskey
+Joseph W. Harding, John W. Wright, Caroline C. Benoist, Leen H. Kawas, Gary A. Wayman
+James V. O'Fallon, Charles T. Gaskins, Jan R. Busboom, Mark L. Nelson, Brian J. Kraft
+Kimberlee Kae Kidwell, Camille Marie Steber, Victor Louis Demacon, Gary Bruce Shelton, Adrienne Bryan Burke
+Clifford E. Berkmam, Henry F. Vanbrocklin
+Amit Bandyopadhyay, Susmita Bose
+Quanbao Zhao, Stephen W. Dvorak, Shulin Chen, Craig Frear, Bryan J. VanLoo
+Shulin Chen, Zhanyou Chi, Yuxiao Xie, Baisuo Zhao
+Joseph W. Harding, John W. Wright, Caroline C. Benoist, Leen H. Kawas, Gary A. Wayman
+Norman G. Lewis, Laurence B. Davin, Oliver R.A. Corea, Sung-Jin Kim
+Liang Yu, Jingwei Ma, Craig Frear, Usama Zaher, Shulin Chen
+Amit Bandyopadhyay, Susmita Bose
+Hans Van Dongen, Pia Forsman
+Subramaniam Srikumaran, Weiguo Liu, Sudarvili Shanthalingam
+Wei-Hong Zhong, Jianying Ji, Bin Li
+Amit Bandyopadhyay, Susmita Bose
+Ming Xian, Yu Zhao
+Bruce H. Barritt
+Bruce H. Barritt
+Bruce H. BarrittWASHINGTON STATE UNIVERSITY RESEARCH FOUNDATION
+WASHINGTON STATE UNIVERSITY RESEARCH FOUNDATION
+Washington State University
+Lisa Knowles, Norman R. Knowles
+Cornelius F. Ivory
+Cornelius F. Ivory
+Cornelius F. Ivory, Dan M. Leatzow
+Washington State University
+Washington State University
+Jan Narciso, Robert Fassel, Lawrence E. Schrader
+Rodney B. Croteau, Edward M. Davis, Kerry L. Ringer
+Grant Norton, David McIlroy
+Gregory Z. Pearce, Alisa Huffaker, Yube Yamaguchi, Patricia Louise Ryan
+George J. Baley, Kimberlee K. Kidwell, Timothy C. Paulitz
+Dylan J. Morris, David F. Bahr, Michael J. Anderson, John M. Youngsman
+Yan Liu, Wei Liao, Craig Frear, Shulin Chen
+Kathryn M. Meurs
+Eva Szentirmai, Levente Kapas, James M. Krueger
+Michael Neff
+Shulin Chen, Craig Frear, Quanbao ZhaoKelvin Lynn, Kelly Jones, Guido Ciampi
+Michael K. Skinner, Jaideep Chaudhary
+Norman Richard Knowles, Lisa O'Rear Knowles
+Joseph W. Harding, John W. Wright, Patrick D. Elias, Brent J. Yamamoto
+Vaithianathan Venkatasubramanian, Xing Liu
+Tianxi Zhang, Keith E. Bowers, Joseph H. Harrison, Shulin Chen
+David Strand, Dan M. Leatzow, Cornelius F. Ivory
+John A. Browse, James G. Wallis, Jennifer L. Watts
+Kelvin Lynn, Kelly Jones, Guido Ciampi
+John A. Browse, Jay M. Shockey, Julie Jeannine Burgal
+Herbert H. Hill, JR., Eric J. Davis
+Kelvin Lynn, Kelly Jones, Guido Ciampi
+Subramaniam Srikumaran, Sudarvili Shanthalingam
+Kelvin Lynn, Kelly Jones, Guido Ciampi
+Michael Costello
+Vaithianathan Venkatasubramanian, Guoping Liu
+Zhanyou Chi, Zhiyou Wen, Craig Frear, Shulin Chen
+Dylan J. Morris, David F. Bahr, Michael J. Anderson, John M. Youngsman
+Marie-Pierre Laborie, Elvie Brown
+Patrick P. MooreJohn A. Browse, Chaofu Lu, Zhanguo Xin
+Orest J. Pilskalns
+Kelvin Lynn, Kelly Jones, Guido Ciampi
+Cornelius Ivory, Noah Tracy, Dan M. Leatzow
+Zhihua Jiang, Jennifer J. Michal
+Joseph W. Harding, John W. Wright, Patrick D. Elias, Brent J. Yamamoto
+Anping Jiang, Tianxi Zhang, Craig Frear, Shulin Chen
+M. Grant Norton, David N. McIlroy
+Dylan J. Morris, David F. Bahr, Michael J. Anderson, John M. Youngsman
+Zhihua Jiang, Jennifer J. Michal, Tanja Kunej
+Nathan K. Kaiser, James E. Bruce
+Zhaohui Zhou, Kathleen Dorgan
+Grant Norton, David McIlroy
+William C. Davis, Mary Jo Hamilton, John Dahl, Kun Taek Park
+Bruce H. Barritt
+M. Grant Norton, David N. McIlroy
+Manuel Garcia-Perez, Robert L. Johnson, Shi-Shen Liaw, Shulin Chen, Jieni Lian, Shuai Zhou, Oisik Das, Zhouhong Wang
+Zhihua Jiang, Tito A. Wibowo, Jennifer J. Michal
+Holly L. Neibergs, Ricardo Zanella, Matthew Settles, Robert H. Whitlock, Jeremy F. Taylor
+Bruce H. BarrittBachettira W. Poovaiah, Liqun Du
+Grant Norton, David McIlroy
+Herbert Henderson Hill, Jr., Maggie Tam
+Katrina L. Mealey
+Grant Norton, David McIIRoy
+Eva Szentirmai, Levente Kapas, James M. Krueger
+James V. O'Fallon, Charles T. Gaskins, Jan E. Busboom, Mark L. Nelson, Brian J. Kraft
+Dong-Hyun Kang, Se-Wook Oh
+Subramaniam Srikumaran, Weiguo Liu, Sudarvili Shanthalingam
+Dylan J. Morris, David F. Bahr, Michael Anderson
+Diane J. Cook, Parisa Rashidi
+James E. Bruce, Xiaoting Tang, Gerhard Munske
+Zhihua Jiang, Jennifer J. Michal, Matthew D. Garcia
+Zhihua Jiang, Tanja Kunej
+Zhihua Jiang, Jennifer J. Michal, Galen A. Williams
+George S. La Rue, David Rector, Deuk Heo
+Norman G. Lewis, Laurence B. Davin, Sung-Jin Kim, Daniel Giddings Vassão, Ann M. Patten, Dietmar Eichinger
+Kelvin Lynn, Kelly Jones, Guido Ciampi
+Camille Marie Steber, Kimberlee Kae Kidwell, Victor Louis Demacon, Patricia Ann Okubara
+Thomas K. ToyamaRodney B. Croteau, Edward M. Davis, Kerry L. Ringer
+Susmita Bose, Amit Bandyopadhyay
+Vaithianathan Venkatasubramanian, Guoping Liu
+Suzanne J. Lindsey
+Dylan J. Morris, David F. Bahr, Michael J. Anderson, John M. Youngsman
+Marie-Pierre Laborie, Elvie Brown
+Brian H. Clowers, Herbert H. Hill, Jr., Prabha Dwivedi, Matthew Pollard
+Alexander D. Q. Li, Wei Wang
+Rongsen He, Jose G. Delgado-Frias
+Gregory Belenky, Hans Van Dongen
+Clarence A. Ryan, Patricia Louise Ryan, Gregory L. Pearce, Alisa Huffaker, Yube Yamaguchi
+James E. Bruce, Xiaoting Tang, Gerhard Munske
+Amit Bandyopadhyay, Susmita Bose
+Dylan J. Morris, David F. Bahr, Michael Anderson
+Amit Bandyopadhyay, Susmita Bose, Weichang Xue
+Tianxi Zhang, Keith E. Bowers, Joseph H. Harrison, Shulin Chen
+Gerard R. Lazo, Nancy Y. Lui, Frank M. You
+Grant Norton, David McllRoy
+Carlos E. Suarez, Donald P. Knowles, JR., Terry F. McElwain
+Thomas K. ToyamaGeorge S. La Rue, Haidong Guo
+Robert F. Richards, David F. Bahr, Cecilia Richards
+John A. Browse, Jay M. Shockey, Julie Jeannine Burgal
+David F. Dostal, Michael P. Wolcott
+Linda S. Thomashow, Shannon M. Delaney, Dmitri V. Mavrodi, David M. Weller
+Rodney B. Croteau, Anne Schoendorf, Stefan Jennewein
+Herbert Henderson Hill, Jr., Maggie Tam
+Robert F. Richards, David F. Bahr, Cecilia Richards
+Rodney B. Croteau, Robert Long, Stefan Jennewein
+John A. Browse, James G. Wallis, Jennifer L. Watts
+Orest J. Pilskalns, Adam McDonald, Kevin Karpenske
+Katrina L. Mealey
+Rodney Bruce Croteau, Charles Cullen Burke
+Jose De J. Berrios, Juming Tang, Barry G. Swanson
+Ernett Altheimer, Michael Wolcott
+Joseph Harding, John Wright, Patrick Elias, Brent Yamamoto
+George La Rue, Haidong Guo
+Brian Clowers, Herbert Hill, Prabha Dwivedi, Matthew Pollard
+Patrick P. Moore
+Patrick P. MooreAlexander D. Q. Li, Wei Wang
+Robert F. Richards, David Bahr, Cecilia Richards
+Lawrence E. Schrader
+Bachettira Poovaiah, Liqun Du
+Linda S. Thomashow, Shannon M. Delaney, Dmitri V. Mavrodi, David M. Weller
+Dong-Hyun Kang, Se-Wook Oh
+Rodney B. Croteau, Kevin D. Walker, Anne Schoendorf, Mark R. Wildung
+Joseph W Harding, John W Wright
+Juming Tang, Fang Liu, Surya Kumar Pathak, Eugene E. Eves, II
+Herbert Hill, Maggie Tam
+Herbert Henderson Hill, Jr., Maggie Tam
+Joseph Harding, John Wright
+James Bruce, Xiaoting Tang, Gerhard Munske
+Robert Richards, David Bahr, Cecilia Richards
+Rodney B. Croteau, Anne Schoendorf, Stefan Jennewein
+Robert Richards, David Bahr, Cecilia Richards
+Rodney Croteau, Charles Burke
+Gary G. Meadows, Tanja Obradovic
+Thomas Toyama
+Thomas K. ToyamaZhi-Qiang Xia, Michael A. Costa, Laurence B. Davin, Norman G. Lewis
+Lawrence Schrader, Edmund Huang, Jason Alexander, Abdullah Mostamandi, Alberto Sardo
+John A. Browse, James P. Spychalla
+Gregory B. Tilton, Jay M. Shockey, John A. Browse
+Rudolf Kammereck, Lawrence E. Schrader
+Julie M. Tarara, John C. Ferguson, Francis J. Pierce, Marvin J. Pitts, Gary M. Hyde, Robert L. Wample, Andre L. Baritelle
+Norman R. Knowles, Lisa O'Rear Knowles
+Rodney Bruce Croteau, John E. Crock
+Katrina L. Mealey, Steven A. Bentjen
+John A. Browse, James G. Wallis, Jennifer L. Watts
+Rodney B. Croteau, Anne Schoendorf, Stefan Jennewein
+Rodney B. Croteau, Kevin D. Walker, Anne Schoendorf, Mark R. Wildung
+Alexander D. Q. Li, Wei Wang
+Ernett Altheimer, Michael P. Wolcott
+David M. Kramer, Colette A. Sacksteder
+Katrina L. Mealey, Steven A. Bentjen
+Rodney B. Croteau, Anne Schoendorf, Stefan Jennewein
+Lance E. Perryman, Douglas P. Jasmer, Michael W. Riggs, Travis C. McGuire
+Linda S. Thomashow, Shannon M. Delaney, Dmitri V. Mavrodi, David M. Weller
+Thomas K. ToyamaHiroyuki Kasahara, Laurence B. Davin, Norman G. Lewis
+Jay M. Shockey, Judy Schnurr, John A. Browse
+Rodney B. Croteau, Kevin D. Walker, Anne Schoendorf, Mark R. Wildung
+Patrick P. Moore
+Michael L. Kahn, Brent L. House, Michael W. Mortimer
+Kenneth R. Korzekwa, Jeffrey P. Jones
+Norman G. Lewis, Laurence B. Davin, Albena T. Dinkova-Kostova, Masayuki Fujita, David R. Gang, Simo Sarkanen, Joshua D. Ford
+Kenneth R. Korzekwa, Jeffrey P. Jones
+David M. Kramer, Colette Sacksteder
+C.L. Steele, Joerg Bohlmann, Rodney B. Croteau, Michael A. Phillips
+Rodney Bruce Croteau, John E. Crock
+Rodney B. Croteau, Anne Schoendorf, Stefan Jennewein
+Rodney B. Croteau, Mark R. Wildung
+Rodney B. Croteau, Kevin D. Walker, Anne Schoendorf, Mark R. Wildung
+Amit Bandyopadhyay, Jonathan C. Christensen
+Jay M. Shockey, Judy Schnurr, John A. Browse
+Bernard Van Wie, Trevan R. Landin, Bruce N. Weyrauch
+Howard D. Grimes, Wun S. Chao
+Lloyd V. Smith
+Patrick P. MooreJay M. Shockey, Judy Schnurr, John A. Browse
+Katherine I. O'Rourke, Donald P. Knowles, Timothy V. Baszler, Steven M. Parish
+Hiroyuki Kasahara, Laurence B. Davin, Norman G. Lewis
+Clarence A. Ryan, Gregory L. Pearce
+Katrina L. Mealey, Steven A. Bentjen
+John A. Browse, James P. Spychalla
+Rodney B. Croteau, Kevin D. Walker, Anne Schoendorf, Mark R. Wildung
+Rodney B. Croteau, Kevin D. Walker, Anne N.M.N. Schoendorf, Mark R. Wildung
+Rodney Bruce Croteau, Jörg Bohlmann, John E. Crock, Christopher L. Steele
+Sankar Jayaram, Uma Jayaram, Yong Wang, Hrishikesh Tirumali, Hiral Chandrana, Hugh Ingram Connacher, Kevin Lyons, Peter Fred Hart
+Howard D. Grimes, Wun S. Chao
+Rodney B. Croteau, Charles C. Burke
+C. L. Steele, Joerg Bohlmann, Rodney B. Croteau
+Rodney B. Croteau, Bernd M. Lange
+Bachettira W. Poovaiah, Shameekumar Patil, Daisuke Takezawa
+Cornelius F. Ivory, Zheng Huang, Fred J. Schuetze
+Rodney Bruce Croteau, Jorg Bohlmann, John E. Crock, Christopher L. Steele
+Bachettira W. Poovaiah, Zhihua Liu, Shameekumar Patil, Daisuke Takezawa
+Rodney B. Croteau, Bernd M. Lange
+Lance E. Perryman, Douglas P. Jasmer, Michael W. Riggs, Travis C. McGuireRodney B. Croteau, Charles C. Burke, Mark R. Wildung
+Rodney B. Croteau, Kevin D. Walker, Anne Schoendorf, Mark R. Wildung
+Rodney B. Croteau, Bernd M. Lange
+Cornelius F. Ivory, Zheng Huang, Fred J. Schuetze
+Zhengyu Huang, Linda S. Thomashow, Dmitri V. Mavrodi, Jos M. Raaijmakers, David M. Weller, R. James Cook
+Rodney Bruce Croteau, Jörg Bohlmann, Reinhard Jetter, John E. Crock, Christopher L. Steele
+Rodney Bruce Croteau, Mark Raymond Wildung, John E. Crock
+Rodney B. Croteau, Bernd M. Lange
+Sayed S. Daoud
+Norman G. Lewis, Laurence B. Davin, Albena T. Dinkova-Kostova, Masayuki Fujita, David R. Gang, Simo Sarkanen, Joshua D. Ford
+Yogendra M. Gupta, Ramamurthi Mahalingham
+John A. Browse, James P. Spychalla
+Rodney Bruce Croteau, Shari Lee Lupien, Frank Karp
+Rodney Bruce Croteau, Mark Raymond Wildung, Bernd Markus Lange, David G. McCaskill
+Katherine I. O'Rourke, Donald P. Knowles, Timothy V. Baszler, Steven M. Parish
+Michael E. Konkel, Steven G. Garvis
+Rodney B. Croteau, Mark R. Wildung
+Rodney Bruce Croteau, Shari Lee Lupien, Frank Karp
+Bachettira W. Poovaiah, Zhihua Liu, Shameekumar Patil, Daisuke Takezawa
+Patrick P. MooreMoris L. Silber, Bruce B. Davitt
+Linda S. Thomashow, Mahalaxmi Bangera, David M. Weller, R. James Cook
+Jerry J. Reeves, Kevin P. Bertrand, Yuzhi Zhang
+Rodney B. Croteau, Jerry L. Hefner
+Joseph W. Harding, John W. Wright
+Clarence A. Ryan, Gregory L. Pearce, Barry F. McGurl
+Bai-Lin Qin, Gustavo V. Barbosa-Canovas, Barry G. Swanson, Patrick D. Pedrow, Robert G. Olsen, Qinghua Zhang
+James M. Lee, Nancy S. Magnuson, Gynheung An, Raymond Reeves
+Jerry J. Reeves, Kevin P. Bertrand, Yuzhi Zhang
+Rodney Bruce Croteau, Mark Raymond Wildung, John E. Crock
+Rodney B. Croteau, Mark R. Wildung
+Gynhueng An
+R. James Cook, David M. Weller, Dal-Soo Kim, Linda S. Thomashow
+Linda S. Thomashow, Mahalaxmi Bangera, David M. Weller, R. James Cook
+Clarence A. Ryan, Jr., Edward E. Farmer
+Rodney Bruce Croteau, Mitchell Lynn Wise, Eva Joy Katahira, Thomas Jonathan Savage
+Clarence A. Ryan, Gregory L. Pearce, Barry F. McGurl
+Rodney Bruce Croteau, Mark Raymond Wildung, Charles Cullen Burke, Jonathan Gershenzon
+Rodney B. Croteau, Shelia M. Colby
+Thomas K. ToyamaGynheung An
+Gynheung An
+Joseph W. Harding, John W. Wright
+Luying Xun, Jang Young Lee
+Donald S. Matteson, Rajendra P. Singh
+Phillip I. Tarr, Sima S. Bilge, Thomas E. Besser, James C. Vary, Jr.
+Donald P. Knowles, Travis C. McGuire, Guy H. Palmer, William C. Davis, Terry F. McElwain
+Bai-Lin Qin, Gustavo V. Barbosa-Canovas, Barry G. Swanson, Patrick D. Pedrow, Robert G. Olsen, Qinghua Zhang
+Bernard J. Van Wie, William C. Davis, David F. Moffett, Alan R. Koch, Moris Silber, Steven R. Reiken, Himawan Sutisna
+Loverine P. Taylor, Yinyuan Mo
+Donald S. Matteson, Hon-Wah Man, Oliver Ho
+Mark G. Kuzyk, David J. Welker
+Terri S. Fiez, Gregory M. Cooley, Bryan Buchanan
+Bai-Lin Qin, Gustavo V. Barbosa-Canovas, Barry G. Swanson, Patrick D. Pedrow, Robert G. Olsen, Qinghua Zhang
+Sterling Backus, Henry C. Kapteyn, Margaret M. Murnane
+Bruce Eaton
+Qinghua Zhang, Bai-Lin Qin, Gustavo V. Barbosa-Canovas, Barry G. Swanson, Patrick D. Pedrow
+Bachettira W. Poovaiah, Daisuke Takezawa, Tae-Jin Han, Gynheung H. An
+Patrick P. Moore
+Thomas K. ToyamaZuzanna Czuchajowska, Yeshajahu Pomeranz
+Bruce Eaton
+Travis C. McGuire, Terry F. McElwain, Lance E. Perryman, William C. Davis
+Clarence A. Ryan, Gregory L. Pearce, Barry F. McGurl
+Calvin F. Konzak, Enrique A. Polle
+Zuzanna Czuchajowska, Yeshajahu Pomeranz
+Cornelius F. Ivory, William A. Gobie
+Stanislaw Wojcicki
+Travis McGuire, Terry McElwain, Lance Perryman, William Davis
+Cornelius F. Ivory, William A. Gobie
+John J. Brown
+Phillip L. Senger, Willard C. Becker
+Lee A. Hadwiger
+Richard F. Tinder, Richard I. Klaus
+Roy F. Pellerin, Robert J. Ross
+William A. Haglund
+Lee A. Hadwiger
+Thomas K. Toyama
+Thomas K. Toyama
+Thomas K. ToyamaBernard J. Van Wie, Michael L. Elliott, Thomas M. Brouns
+Clarence A. Ryan
+Lee A. Hadwiger
+John M. Frame
+Roy F. Pellerin, Robert J. Ross
+Marc H. Ratzlaff, Barrie D. Grant, John M. Frame
+Y. M. Gupta, Paul D. Horn
+Sarangamat Gurusiddaiah, Shrikrishna Singh
+Marc H. Ratzlaff, John M. Frame, Barrie D. Grant
+Donald S. Matteson, Gerald D. Hurst
+Fritz J. Knorr, Randy L. Eatherton, William F. Siems, Herbert H. Hill, Jr.
+Roy F. Pellerin, William L. Galligan, George F. Eberle
+Donald S. Matteson, Kizhakethil M. Sadhu
+George W. Bagby
+Gary L. Sheldon
+William E. Johns
+Thomas M. Maloney, E. Max Huffaker
+Thomas K. Toyama
+Thomas K. Toyama
+Thomas K. ToyamaBachettira W. Poovaiah, Gary A. Moulton
+Thomas M. Maloney, E. Max Huffaker
+James J. Jakubowski, Ravanasamudram V. Subramanian
+Sarangamat Gurusiddaiah, Robert C. Ronald, James A. Magnuson, Bruce A. McFadden
+Sarangamat Gurusiddaiah, Robert C. Ronald, James A. Magnuson, Bruce A. McFadden
+John W. Talbott, John M. Kirkwood
+Helen F. Austin, Ravanasamudram V. Subramanian
+John W. Talbott, James D. Logan

@@ -1,0 +1,202 @@
+Jeffrey D. West
+Douglas M. Pase
+Kent T. McDaniel, Bradley J. Smith, Gregory David Spanier
+Eric C. Fromm
+Randal S. Passint, Greg Thorson, Michael B. Galles
+Alan J. Schiffleger, Ram K. Gupta, Christopher C. Hsiung
+Allen Kramer, Roger Brown, Eric Fischer
+Greg Thorson, Randal S. Passint, Steven L. Scott
+Bradley W. Bartilson
+Gregory M. Thorson
+Richard E. Kessler, Steven M. Oberlin, Steven L. Scott, Eric C. Fromm
+Douglas M. Carlson, Edward A. Malosh
+George W Leedom, William T. Moore
+Terry D. Greyzck
+Randal S. Passint, Michael B. Galles, Greg Thorson
+Richard B. Salmonson, Stephen Cermak, III
+Thorbjorn Vynne, Frederic Jordan
+Steven L. Scott, Richard D. Pribnow, Peter G. Logghe, Daniel L. Kunkel, Gerald A. Schwoerer
+Rabin A. Sugumar, Stefanos Kaxiras
+James E. SmithAlan J. Schiffleger
+Rabin A. Sugumar, Stefanos Kaxiras
+Douglas M. Pase
+James E. Smith
+Richard E. Kessler, Steven M. Oberlin, Steven L. Scott
+Timothy J. Johnson, Alan R. Rivers
+Alan J. Schiffleger, Ram K. Gupta, Christopher C. Hsiung
+Richard E. Kessler, Steven M. Oberlin, Steven L. Scott
+Richard E. Kessler, Steven M. Oberlin, Steven L. Scott, Eric C. Fromm
+Timothy J. Johnson
+Richard B. Salmonson, Stephen Cermak, III
+J. Bradley Kline, David Wagner, Ahmed K. Ezzat
+Viet N. Ngo, Wei-Tek Tsai
+Richard B. Salmonson
+Mark S. Birrittella, Richard E. Kessler, Steven M. Oberlin, Randal S. Passint, Greg Thorson
+Steven M. Oberlin, Eric C. Fromm, Randal S. Passint
+Richard B. Salmonson, Daniel John Dravis
+Steven M. Oberlin, Janet M. Eberhart, Gary W. Elsesser, Eric C. Fromm, Thomas A. MacDonald, Douglas M. Pase, Randal S. Passint
+Andrew Jackson McCrocklin, Douglas Brent Meyer, Eric Cedric Pilmore, Sandra Cecilia Lee
+Richard B. SalmonsonRichard E. Kessler, Steven M. Oberlin, Steven L. Scott, Subbarao Palacharla
+Eric P. Lundberg, Joseph M. Placek
+Steven L. Scott, Richard D. Pribnow, Peter G. Logghe, Daniel L. Kunkel, Gerald A. Schwoerer
+Douglas R. Beard, Andrew E. Phelps, Michael A. Woodmansee, Richard G. Blewett, Jeffrey A. Lohman, Alexander A. Silbey, George A. Spix, Frederick J. Simmons, Don A. Van Dyke
+George M. Hopkins, Larry Hayes Wood, Jeffrey Mark Glanzman
+Mark S. Birrittella, Richard E. Kessler, Steven M. Oberlin, Randal S. Passint, Greg Thorson
+Richard B. Salmonson, Stephen A. Bowen
+Richard E. Kessler, Steven M. Oberlin, Gregory M. Thorson
+Douglas R. Beard, Andrew E. Phelps, Michael A. Woodmansee, Richard G. Blewett, Jeffrey A. Lohman, Alexander A. Silbey, George A. Spix, Frederick J. Simmons, Don A. Van Dyke
+George W. Leedom, William T. Moore
+Douglas R. Beard, Andrew E. Phelps, Michael A. Woodmansee, Richard G. Blewett, Jeffrey A. Lohman, Alexander A. Silbey, George A. Spix, Frederick J. Simmons, Don A. Van Dyke
+Gregory M. Thorson, Steven L. Scott
+Eric C. Fromm
+Richard B. Salmonson, Robert J. Greener, Mark Ronald Sikkink, Robert J. Lutz, Max C. Logan, Richard G. Finstad
+Peter G. Logghe
+Gregory Michael Thorson
+Douglas R. Beard, Andrew E. Phelps, Michael A. Woodmansee, Richard G. Blewett, Jeffrey A. Lohman, Alexander A. Silbey, George A. Spix, Frederick J. Simmons, Don A. Van Dyke
+Gregory M. Thorson, Steven L. Scott
+Douglas R. Beard, Andrew E. Phelps, Michael A. Woodmansee, Richard G. Blewett, Jeffrey A. Lohman, Alexander A. Silbey, George A. Spix, Frederick J. Simmons, Don A. Van Dyke
+Edward C. Priest, John M. WastlickDouglas R. Beard, Andrew E. Phelps, Michael A. Woodmansee, Richard G. Blewett, Jeffrey A. Lohman, Alexander A. Silbey, George A. Spix, Frederick J. Simmons, Don A. Van Dyke
+Bricky A. Stephenson, Peter G. Logghe
+George W. Leedom, William T. Moore
+Douglas R. Beard, Andrew E. Phelps, Michael A. Woodmansee, Richard G. Blewett, Jeffrey A. Lohman, Alexander A. Silbey, George A. Spix, Frederick J. Simmons, Don A. Van Dyke
+Kevin M. Knecht, Eric C. Fromm
+Thomas A. MacDonald, Janet M. Eberhart, Douglas M. Pase
+Mark S. Birrittella, Richard E. Kessler, Steven M. Oberlin, Randal S. Passint, Greg Thorson
+Randal S. Passint, Steven M. Oberlin, Eric C. Fromm
+Douglas M. Pase, Dave Wagner
+Steve S. Chen, Frederick J. Simmons, George A. Spix, Jimmie R. Wilson, Edward C. Miller, Roger E. Eckert, Douglas R. Beard
+Paul Schroeder, Michael Tobkin
+Douglas R. Beard, Andrew E. Phelps, Michael A. Woodmansee, Richard G. Blewett, Jeffrey A. Lohman, Alexander A. Silbey, George A. Spix, Frederick J. Simmons, Don A. Van Dyke
+Marvin D. Bausman, Vernon W. Swanson
+Frank R. Barriuso, Douglas M. Pase, David J. Sielaff
+Gregory M. Thorson
+Alan J. Schiffleger
+Douglas R. Beard, George A. Spix, Edward C. Miller, Robert E. Strout, II, Anthony R. Schooler, Alexander A. Silbey, Brian D. Vanderwarn, Jimmie R. Wilson, Richard E. Hessel, Andrew E. Phelps
+Roger E. Eckert, Richard E. Hessel, Andrew E. Phelps, George A. Spix, Jimmie R. Wilson
+Patrick Sullivan
+Perry D. Franz, Steven M. Oberlin, Timothy W. DesleyAlan J. Schiffleger, Ram K. Gupta, Christopher C. Hsiung
+Stephen E. Nelson, David L. Duxstad, Galen C. Flunker
+Reza Taghavi, Stephen R. Behling, Yoshihiko Mochizuki
+Gregory G. Gaetner, George A. Spix, Diane M. Wengelski, Keith J. Thompson
+Marvin D. Bausman, Steven S. Chen, Edward C. Priest, Douglas C. Paffel
+Thomas L. Court, Lawrence T. Hsu, Alan Rivers
+Steven M. Oberlin, Eric C. Fromm
+Alan J. Schiffleger
+Douglas R. Beard, Andrew E. Phelps, Michael A. Woodmansee, Richard G. Blewett, Jeffrey A. Lohman, Alexander A. Silbey, George A. Spix, Frederick J. Simmons, Don A. Van Dyke
+Steve S. Chen, Douglas R. Beard, George A. Spix, Edward C. Priest, John M. Wastlick, James M. VanDyke
+Mark R. Sikkink, Terrance L. Bowman
+Kevin M. Knecht, Eric C. Fromm
+Mark R. Sikkink, Mario J. Rizzo
+Stephen E. Nelson, David L. Duxstad, Galen C. Flunker
+Paul E. Schroeder, Michael J. Tobkin
+Eugene F. Neumann, Melvin C. August, Daniel C. Mansur, Albert H. Wilson
+Thomas J. Davis, Michael T. Bye, Richard D. Pribnow, Bricky A. Stephenson
+Gregory G. Gaertner, Diane M. Wengelski, Keith J. Thompson
+Kevin M. Knecht, Eric C. Fromm
+Richard D. Pribnow, Galen Flunker, George W. Leedom, Alan J. SchifflegerGary E. Benzschawel, Lonnie R. Heidtke, Steven S. Chen, Fredrich J. Simmons, George A. Spix
+Andrew E. Phelps, Roger E. Eckert, Richard E. Hessel
+Alan J. Schiffleger
+Delvin D. Eberlein
+Alan J. Schiffleger
+Terry Greyzck
+Richard R. Steitz, Diane M. Christie, Eugene F. Neumann, Melvin C. August, Stephen Nelson
+David A. Hanson, Edward C. Priest
+Seymour R. Cray, James R. Bedell, Dennis W. Kuba, William T. Moore, Jr.
+Robert J. Halford
+David M. Morton, Stephen A. Bowen
+Robert E. Strout, II, George A. Spix, Jon A. Masamitsu, David M. Cox, Gregory G. Gaertner, Diane M. Wengelski, Keith J. Thompson
+Delvin D. Eberlein, Peter J. Wehner
+Mark R. Sikkink, Kenneth A. Van Goor, Gregory R. Edlund, Arthur H. Orth
+Richard D. Pribnow
+Eric C. Fromm, Michael L. Anderson, Lonnie R. Heidtke
+Bradley W. Bartilson, James J. Jirak
+Bradley W. Bartilson
+Edward C. Priest, Steven C. Barber, Ken Shintaku, David A. Hanson, Dan L. Massopust
+Paul E. Schroeder, Deanna M. DowdleBradley W. Bartilson, Elliot F. Schlimme
+Thomas L. Court, Alan Rivers
+Marvin D. Bausman, Jr.
+James E. Smith
+Eugene F. Neumann, Melvin C. August, James N. Kruchowski, Stephen Nelson, Richard R. Steitz
+Stephen E. Nelson, David L. Duxstad, Galen C. Flunker
+Mark Furtney, Frank R. Barriuso, Clayton D. Andreasen, Timothy W. Hoel, Suzanne L. LaCroix, Steven P. Reinhardt
+Michael W. Booth
+George W. Leedom, Alan J. Schiffleger, Ram K. Gupta
+Alan E. Kilian
+Bradley W. Bartilson, Elliot F. Schlimme
+Eugene F. Neumann, Melvin C. August, Daniel C. Mansur, Richard J. Kelley
+William E. Hall, Dale A. Stigers, Leslie F. Decker
+Thomas G. Hotle
+Nicholas J. Krajewski, Carl D. Breske, David J. Johnson, David R. Kiefer, Kent T. McDaniel, William T. Moore, Jr., Michael R. Edwards, Bricky A. Stephenson, Anthony A. Vacca
+Eugene F. Neumann, Melvin C. August, Stephen A. Bowen, Gregory W. Pautsch
+Stephen A. Bowen, Melvin C. August, Stephen Cermak, III, David R. Collins, Mary A. Nebel, Stephen E. Nelson, Eugene N. Reshanov, Eric J. Mueller, Danny J. Cunnigan
+Stephen A. Bowen, Melvin C. August, Stephen Cermak, III, David R. Collins, Mary A. Nebel, Stephen E. Nelson, Eugene N. Reshanov, Eric J. Mueller, Danny J. Cunagin
+Eugene F. Neumann, Melvin C. August, James N. Kruchowski, Stephen Nelson, Richard R. Steitz
+Steven J. Dean, Robert A. Moe, James W. Sundet, Amy Bower, James W. Luther, Eric J. Mueller, Eugene N. ReshanovJames W. Sundet, Roger G. Brown
+Alan J. Schiffleger
+John J. Wagner, Thomas P. Chojnacki, Delvin D. Eberlein
+Kent T. McDaniel, David J. Johnson, Nicholas J. Krajewski, David W. LeMay
+Lloyd T. Shepherd, Melvin C. August, James N. Kruchowski
+Jan A. Wikstrom, Mark S. Birrittella, David Kiefer, Stephen B. Smetana, Vernon W. Swanson
+Richard R. Steitz, Diane M. Christie, Eugene F. Neumann, Melvin C. August, Stephen Nelson
+Randall R. Stansbury, Michael R. Seitz
+Eugene F. Neumann, Melvin C. August, Daniel C. Mansur, Richard J. Kelley
+Mark S. Birrittella
+David R. Collins, Mary A. Nebel, Bruce A. Strangfeld
+William Lee, Gary J. Geissler, Steven J. Johnson, Alan J. Schiffleger
+Nicholas J. Krajewski, Carl D. Breske, David J. Johnson, David R. Kiefer, Kent T. McDaniel, William T. Moore, Jr., Michael R. Edwards, Bricky A. Stephenson, Anthony A. Vacca
+Bradley W. Bartilson
+James N. Kruchowski, Melvin C. August, John B. Eder
+Nicholas J. Krajewski, David J. Johnson, Arthur O. Kunstmann
+Susan J. Garcia
+Melvin C. August, Daniel Massopust, Mary Nebel, Eugene F. Neumann, Gregory W. Pautsch
+Steven J. Dean, David M. Morton, Eugene N. Reshanov, Eric J. Mueller
+Gerald A. SchwoererAlan J. Schiffleger
+Peter J. Wehner, Paul M. Knudsen, David F. Leonard, Richard R. Steitz, David L. Duxstad, Melvin C. August, Delvin D. Eberlein
+Stephen A. Bowen, Melvin C. August, Stephen Cermak, III, David R. Collins, Steven J. Dean, Perry D. Franz, Max C. Logan
+Nicholas J. Krajewski, David J. Johnson, Arthur O. Kunstmann
+Richard R. Steitz, Melvin C. August, Diane M. Christie, Deanna M. Dowdle, Dean B. Dudley, Stephen E. Nelson, Eugene F. Neumann, Paul E. Schroeder
+Melvin C. August, Lloyd T. Shepherd, James N. Kruchowski
+Robert J. Halford
+William T. Moore, Jr.
+Melvin C. August, Daniel Massopust, Mary Nebel, Eugene F. Neumann, Gregory Pautsch
+Eugene F. Neumann, Melvin C. August, James N. Kruchowski, Stephen Nelson, Richard R. Steitz
+Bradley W. Bartilson
+Nicholas J. Krajewski, David J. Johnson, Arthur O. Kunstmann
+Nicholas J. Krajewski, David J. Johnson, Arthur O. Kunstmann
+Delvin D. Eberlein
+Bradley W. Bartilson
+David M. Morton
+Eugene F. Neumann, Melvin C. August, Stephen A. Bowen
+Steven J. Dean, David M. Morton, Eugene N. Reshanov, Eric J. Mueller
+Stephen Cermak, III, Manville A. Hoeft, Lawrence C. Zylka, Eugene N. Reshanov, Eric J. Mueller
+Lester T. Davis, Melvin C. August, Stephen A. Bowen, Stephen Cermak, III, Ram K. Gupta, Lars Herlufsen, Max C. Logan, M. Dean Roush, Louis Saye, John T. Williams, Eugene N. ReshanovDavid R. Collins, Perry D. Franz, Pamela W. Taylor
+Douglas A. Neidich
+Mark S. Birrittella, Jan A. Wikstrom
+Delvin D. Eberlein, Peter Wehner
+Eugene F. Neumann, Melvin C. August, James N. Kruchowski, Stephen Nelson, Richard R. Steitz
+Eric C. Fromm, Lonnie R. Heidtke
+Melvin C. August, Eugene F. Neumann, Stephen A. Bowen, John T. Williams
+Melvin C. August, Eugene F. Neumann
+Steve S. Chen, Alan J. Schiffleger
+Melvin C. August, Eugene F. Neumann, Stephen A. Bowen, John T. Williams
+Eugene F. Neumann
+Dan Massopust
+Robert J. Halford
+Terry W. Jacobson
+Ronald L. Curtis, James S. Mandelert, Christopher T. Nesja
+Eric C. Fromm
+Robert J. Halford
+Richard D. Pribnow
+Alan J. Schiffleger
+Melvin C. August, Stephen A. Bowen, John T. WilliamsSteve S. Chen, Alan J. Schiffleger
+Seymour R. Cray
+Steve S. Chen, Alan J. Schiffleger, Eugene R. Somdahl, Lee Higbie
+James W. Sundet
+Melvin C. August, John T. Williams
+Seymour R. Cray, Jr.
+Melvin C. August, John T. Williams
+John T. Williams, Melvin C. August
+M. Dean Roush
+Seymour R. Cray, Jr.
+Maurice Dean Roush
+Seymour R. Cray, Jr., Maurice Dean Roush

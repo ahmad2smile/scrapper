@@ -7,7 +7,7 @@ logger = logging.getLogger(__name__)
 
 
 NOT_FOUND_MSG_SELECTOR = ".wrapper"
-NOT_FOUND_MESSAGE = "There are no patents for this assignee"
+NOT_FOUND_MESSAGE = "There are no patents for this"
 
 
 def getAllTags(page, selector):

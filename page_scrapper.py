@@ -29,7 +29,7 @@ def cleanUpTagText(text):
     return text.replace("Inventors:", "").replace("Inventor:", "").strip()
 
 
-def getNames(link, selector):
+def getNamesInPage(link, selector):
     try:
         response = requests.get(link)
 
@@ -48,4 +48,4 @@ def getNames(link, selector):
         logger.error(f"RequestException: {str(error)}")
         logger.error("Retrying in 5 secons")
         sleep(5)
-        getNames(link, selector)
+        getNamesInPage(link, selector)

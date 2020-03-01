@@ -32,6 +32,10 @@ def cleanUpTagText(text):
 def getNames(link, selector):
     try:
         response = requests.get(link)
+
+        if response.status_code == 404:
+            return None
+
         response.raise_for_status()
 
         page = BeautifulSoup(response.content, 'html.parser')
